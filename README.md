@@ -1,6 +1,7 @@
 # the-rust-programming-language
 
-study for rust
+> [tutorial](https://space.bilibili.com/361469957/lists/3902595?type=season)
+
 
 [hello](./hello)
 
