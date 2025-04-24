@@ -1,2 +1,2 @@
 [workspace]
-members = [ "guessing_game","hello", "hello_world"]
+members = [ "guessing_game","hello", "hello_world", "learn_var"]
